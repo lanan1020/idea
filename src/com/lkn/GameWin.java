@@ -41,7 +41,7 @@ public class GameWin extends JFrame {
 
         this.setSize(width,height);
         this.setLocationRelativeTo(null);
-        this.setTitle("扫雷大战");
+        this.setTitle("扫雷大战3");
         this.setVisible(true);
         this.setResizable(false);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
