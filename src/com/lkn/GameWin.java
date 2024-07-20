@@ -26,7 +26,7 @@ public class GameWin extends JFrame {
 //        //将菜单栏添加到窗口中
 //        this.setJMenuBar(menuBar);
 //        //创建菜单
-//        JMenu menu=new JMenu("游戏");
+//        JMenu menu=new JMenu("游戏2");
 //        menuBar.add(menu);
 //        //将菜单项添加到菜单中
 //        JMenuItem item1=new JMenuItem("TAN");
